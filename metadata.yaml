@@ -1,5 +1,8 @@
 _repo: The-Southern-Literary-Messenger-Vol-I-No-9-May-1835_57871
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '49663'
     url: http://www.gutenberg.org/2009/agents/49663
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57871#The-Southern-Literary-Messenger-Vol-I-No-9-May-1835
 gutenberg_issued: '2018-09-08'
 gutenberg_type: Text
 identifiers:
